@@ -17,7 +17,7 @@ const page = () => {
             <p className="max-w-[500px] mb-9 text-white/80">
               A Dedicated Computer Science Student Committed to Innovation Through Problem Solving and Code.</p>
             <div className="flex flex-col xl:flex-row items-center gap-8">
-              <a href="https://drive.google.com/uc?export=download&id=1seC_T_yAHxbhBPaO5gG8dJJexu5p6OOC" download>
+              <a href="https://drive.google.com/uc?export=download&id=1LgZwFMK8trDztKaV7XaBS_MkR6yuQV_P" download>
               <Button
                 variant="outline"
                 size="lg"
