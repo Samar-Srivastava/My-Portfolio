@@ -59,7 +59,7 @@ If you'd like to collaborate or discuss opportunities:
 
 - Email: [samarsri08@gmail.com]
 - LinkedIn: [https://www.linkedin.com/in/samar-kumar-srivastava-7b880025a/]
-- Portfolio: Add link once deployed
+- Portfolio: [https://my-portfolio-pi-two-d8atj0ewsj.vercel.app/]
 
 ---
 
