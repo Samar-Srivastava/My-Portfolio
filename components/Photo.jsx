@@ -26,8 +26,7 @@ const Photo = () => {
         >
           <Image
             src="/assets/photo.png"
-            priority
-            quality={100}
+            priority           
             fill
             alt="Profile Photo"
             className="object-contain opacity-75 mix-blend-overlay"/>
